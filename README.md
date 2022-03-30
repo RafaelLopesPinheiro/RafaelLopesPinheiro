@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Rafael Lopes  👋
 
 - 🔭 Conhecimento em Python e R
-- 🌱 Estudando: SQL  
+- 🌱 Estudando: SQL e Power BI  
 - 👯 Estou procurando trabalhar na área de Data Analyst/Scientist 
 - 💭 Amplo conhecimento sobre Finanças, Investimentos e Contabilidade
 
